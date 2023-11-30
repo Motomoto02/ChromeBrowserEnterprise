@@ -1,6 +1,6 @@
 {
   "HomepageLocation": "https://www.google.com",
-  "HomepageIsNewTabPage": false,
+  "HomepageIsNewTabPage": true,
   "DefaultBrowserSettingEnabled": true,
   "RestoreOnStartup": 1,
   "SafeBrowsingProtectionLevel": 1,
